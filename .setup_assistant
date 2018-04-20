@@ -1,0 +1,10 @@
+moveit_setup_assistant_config:
+  URDF:
+    package: rpi_abb_irb6640_180_255_support
+    relative_path: urdf/irb6640_180_255.xacro
+  SRDF:
+    relative_path: config/abb_irb6640_180_255.srdf
+  CONFIG:
+    author_name: John Wason
+    author_email: wason@wasontech.com
+    generated_timestamp: 1524175428
