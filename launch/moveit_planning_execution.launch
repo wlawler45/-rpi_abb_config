@@ -49,6 +49,6 @@
     <arg name="config" value="true"/>
   </include>
   
-  <include file="$(find rpi_abb_irb6640_180_255_moveit_config)/launch/default_warehouse_db.launch" />
+  <!--<include file="$(find rpi_abb_irb6640_180_255_moveit_config)/launch/default_warehouse_db.launch" /> -->
 
 </launch>
